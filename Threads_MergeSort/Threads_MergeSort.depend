@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542702804 source:/home/adel/Documents/OSProjects/Threads_MergeSort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<time.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542657457 source:/home/adel/Documents/OSProjects/Threads_MatrixMultiplication/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+
